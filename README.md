@@ -2,6 +2,8 @@
 
 Proyecto de detección automática de depresión y ansiedad mediante análisis de mensajes de texto utilizando técnicas de Machine Learning y análisis de sentimientos.
 
+Autoras: Gisselle Barreto(gisselle96) y Kathia Garcia(kathia98).
+
 ## 📋 Descripción
 
 Este proyecto implementa múltiples modelos de Machine Learning para la detección de señales de depresión y ansiedad en mensajes de texto. El análisis incluye características lingüísticas, emocionales, temporales y de medicamentos para proporcionar predicciones precisas.
